@@ -1,5 +1,7 @@
 # DagpKmpRepro
 
+Minimal repro for https://github.com/autonomousapps/dependency-analysis-gradle-plugin/issues/963
+
 DAGP advice is:
 ```
 Advice for :app
